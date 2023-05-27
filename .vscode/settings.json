@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "juego.h": "c",
+        "tamanyo_terminal.h": "c",
+        "gusano.h": "c",
+        "coords.h": "c",
+        "casilla.h": "c",
+        "teclas_tictac.h": "c"
+    }
+}
