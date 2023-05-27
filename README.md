@@ -1,5 +1,5 @@
 # Gusanito :bug: 
-Projecte final de l'assignatura Fonaments d'Ordinadors avaluat amb un 10. Es tracta del mític joc del _gusanito_, també conegut com a _Snake_, implementat en **C**. L'objetiu del joc és controlar un gusanito que ha de menjar i créixer, evitant col·lisions amb el seu propi cos i les parets de l'àrea de joc.
+Projecte final de l'assignatura Fonaments d'Ordinadors realitzat durant la Tardor del 2020 i avaluat amb un 10. Es tracta del mític joc del _gusanito_, també conegut com a _Snake_, implementat en **C**. L'objetiu del joc és controlar un gusanito que ha de menjar i créixer, evitant col·lisions amb el seu propi cos i les parets de l'àrea de joc.
 
 
 <p align="center">
@@ -21,8 +21,7 @@ Un cop clonat el repositori, entra dins la carpeta i comprova que està inclòs 
 ```bash
 $ cd ~/path/gusano
 $ ls
-docs  include  play
-  README.md  src
+docs  include  play  README.md  src
 ```
 
 Si l'executable play no es troba a la carpeta, hauràs de compilar el codi font abans de continuar de la següent forma:
@@ -38,7 +37,7 @@ Finalment, pots començar a jugar:
 $ ./play
 ```
 
-### Arquitectura
+## Arquitectura
 Per a més informació del que fa cada funció accedir [aquí](/docs/Full%20ACTA%20%2B%20Calendari%20%2B%20Mapa%20llibreries%20i%20funcions.pdf).
 
 <p align="center">
