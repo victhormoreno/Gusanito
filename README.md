@@ -1,13 +1,13 @@
-# Gusanito :bugs:
-Projecte final de l'assignatura Fonaments d'Ordinadors avaluat amb un 10. Es tracta del mític joc del _gusanito_ implementat en **C**.
+# Gusanito :bug: 
+Projecte final de l'assignatura Fonaments d'Ordinadors avaluat amb un 10. Es tracta del mític joc del _gusanito_, també conegut com a _Snake_, implementat en **C**. L'objetiu del joc és controlar un gusanito que ha de menjar i créixer, evitant col·lisions amb el seu propi cos i les parets de l'àrea de joc.
 
 
 <p align="center">
-  <img src="./docs/gusanito.gif"  width="350" /><br />
+  <img src="./docs/gusanito.gif"  width="500" /><br />
 </p>
 
 
-## Juga!
+## Juga-hi! :video_game:
 ### Instal·lació
 Per començar, clona el repositori utilitzant la següent comanda: 
 
